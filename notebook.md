@@ -185,7 +185,7 @@ hint: 'git pull' before pushing again.
 
 ![img25](/assets/img25.png)
 
-24 - You can try to solve this conflit following Git's instructions - type `git config pull.rebase false` in order to merge the changes made by you and the other person:
+24 - You can try to solve this conflict following Git's instructions - type `git config pull.rebase false` in order to merge the changes made by you and the other person:
 
 ```bash
 git config pull.rebase false
@@ -203,7 +203,7 @@ git config pull.rebase false
 
 ## VIII. Branches
 
-27 - By default, everyone working on a repo starts the `main` branch of the repo. However, the best practice is for each person to work on their own branch, to avoid conflicts like the one we just experienced.
+27 - By default, everyone working on a repo starts in the `main` branch of the repo. However, the best practice is for each person to work on their own branch, to avoid conflicts like the one we just experienced.
 
 28 - In order to create a new branch, use:
 
