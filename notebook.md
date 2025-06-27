@@ -2,18 +2,19 @@
 
 ## Summary
 
-I. [Creating an Account](#i---creating-an-account)
-II. [Creating a Repository](#ii---creating-a-repository)
-III. [Creating a Token](#iii---creating-a-token)
-IV. [Cloning a Repository](#iv-cloning-a-repository)
-V. [Adding, Commiting and Pushing](#v-adding-commiting-and-pushing)
-VI. [Updating your Local Repository](#vi-updating-your-local-repository)
+I. [Creating an Account](#i---creating-an-account)<br>
+II. [Creating a Repository](#ii---creating-a-repository)<br>
+III. [Creating a Token](#iii---creating-a-token)<br>
+IV. [Cloning a Repository](#iv-cloning-a-repository)<br>
+V. [Adding, Commiting and Pushing](#v-adding-commiting-and-pushing)<br>
+VI. [Updating your Local Repository](#vi-updating-your-local-repository)<br>
 
 ---
 
 ## I. Creating an Account
 
 1 - First, create an account on [GitHub](https://github.com/).
+
 2 - After created, access your account.
 
 ## II. Creating a Repository
